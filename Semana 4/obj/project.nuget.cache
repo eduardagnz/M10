@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6Mhnn2oh2B+o7lyHxVsKr5IVQ3uNQD1HMQG2St5LQCaBwK4/xyKaRlHUmDb/MBhp/BHy4te8GrCN9RvHCJrBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inteli\\Desktop\\Ponderadas\\M10\\Semana 4\\Semana 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
